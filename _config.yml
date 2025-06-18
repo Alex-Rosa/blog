@@ -1,6 +1,6 @@
 title: My Tech Blog
 description: A blog about technology, programming, and development.
-baseurl: ""
+baseurl: "" # Keep empty if using https://my-tech-blog.github.io
 url: "https://my-tech-blog.github.io"
 author: Your Name
 email: your.email@example.com
@@ -13,6 +13,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - _posts
   - _drafts
   - _site
