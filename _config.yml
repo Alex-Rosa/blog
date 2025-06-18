@@ -4,7 +4,7 @@ baseurl: "/my-tech-blog"
 url: "https://alex-rosa.github.io"
 author: Alex Rosa
 email: alrosatexas@gmail.com
-theme: minima
+theme: architect
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
