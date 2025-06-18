@@ -5,7 +5,7 @@ baseurl: "/my-tech-blog"
 url: "https://alex-rosa.github.io"
 author: Alex Rosa
 email: alrosatexas@gmail.com
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
