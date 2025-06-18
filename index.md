@@ -1,5 +1,11 @@
-## Recent Posts
+---
+layout: default
+title: Home
+---
+# Welcome to My Tech Blog
 
-- [Welcome to My Tech Blog](./_posts/2024-06-13-welcome.md)
+Check out the latest posts below.
 
-Stay tuned for more updates and happy reading!
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url | relative_url }}) <small>{{ post.date | date: "%B %d, %Y" }}</small>
+{% endfor %}
