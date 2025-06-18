@@ -1,6 +1,6 @@
 # Welcome to My Tech Blog
 
-This is the homepage of my tech blog where I share insights, tutorials, and thoughts on various technology topics. 
+This repository is my technical blog, offering insights into the ever-evolving world of Azure Databases (SQL Server, PostgreSQL, MySQL, Cosmos DB) and MongoDB Atlas. As an AI enthusiast, I also delve into the practicalities of building and managing AI assistants and agents, aiming to empower others on their cloud and AI paths.
 
 ## Recent Posts
 
